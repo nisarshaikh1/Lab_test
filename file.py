@@ -1,3 +1,3 @@
 a=20
 b=50
-c=("Result of addition is :,a+b+c)
+c=("Result of addition is :,a+B)
